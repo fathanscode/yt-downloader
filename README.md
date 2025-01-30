@@ -2,14 +2,14 @@
 
 This is a simple YouTube video downloader written in Python.
 
-## Features
+## Features👌
 - Downloads videos in high quality.
 - Easy to use.
 
-## Weaknesess
+## Weaknesess👎
 - Only local use (Running only in local terminal)
 - No sound on the video
 
-## Installation
+## Installation🧑‍💻
 ```bash
 pip install yt-dlp
