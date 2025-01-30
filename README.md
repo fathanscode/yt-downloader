@@ -1,4 +1,4 @@
-# yt-downloader-py
+# Youtube Downloder🎟️
 
 This is a simple YouTube video downloader written in Python.
 
@@ -7,7 +7,7 @@ This is a simple YouTube video downloader written in Python.
 - Easy to use.
 
 ## Weaknesess
-- Only local use
+- Only local use (Running only in local terminal)
 - No sound on the video
 
 ## Installation
