@@ -13,3 +13,6 @@ This is a simple YouTube video downloader written in Python.
 ## Installation🧑‍💻
 ```bash
 pip install yt-dlp
+
+```bash
+git clone https://github.com/fathanscode/yt-downloader.git
